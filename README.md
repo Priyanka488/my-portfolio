@@ -6,4 +6,4 @@ View it on - https://yadavpriyanka.netlify.com/
 
 Mobile view - 
 <br><br>
-<img src="ss/ss" alt="ss"></img>
+<img src="ss/ss.png" alt="ss" height="200px" width="200px"></img>
